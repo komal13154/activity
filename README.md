@@ -3275,4 +3275,16 @@ Contribution: 2026-07-16 20:07
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/komal13154/activity/tree/master/0001-two-sum) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/komal13154/activity/tree/master/0002-add-two-numbers) |
+## Math
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/komal13154/activity/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/komal13154/activity/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
