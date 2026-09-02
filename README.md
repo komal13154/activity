@@ -3275,6 +3275,7 @@ Contribution: 2026-07-16 20:07
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/komal13154/activity/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/komal13154/activity/tree/master/0003-longest-substring-without-repeating-characters) |
 ## Linked List
 |  |
 | ------- |
@@ -3287,4 +3288,12 @@ Contribution: 2026-07-16 20:07
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/komal13154/activity/tree/master/0002-add-two-numbers) |
+## String
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/komal13154/activity/tree/master/0003-longest-substring-without-repeating-characters) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/komal13154/activity/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
