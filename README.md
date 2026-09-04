@@ -3280,6 +3280,7 @@ Contribution: 2026-07-16 20:07
 | ------- |
 | [0001-two-sum](https://github.com/komal13154/activity/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/komal13154/activity/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/komal13154/activity/tree/master/0013-roman-to-integer) |
 | [0217-contains-duplicate](https://github.com/komal13154/activity/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/komal13154/activity/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/komal13154/activity/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -3293,6 +3294,7 @@ Contribution: 2026-07-16 20:07
 | ------- |
 | [0002-add-two-numbers](https://github.com/komal13154/activity/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/komal13154/activity/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/komal13154/activity/tree/master/0013-roman-to-integer) |
 | [0268-missing-number](https://github.com/komal13154/activity/tree/master/0268-missing-number) |
 ## Recursion
 |  |
@@ -3302,6 +3304,7 @@ Contribution: 2026-07-16 20:07
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/komal13154/activity/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/komal13154/activity/tree/master/0013-roman-to-integer) |
 ## Sliding Window
 |  |
 | ------- |
