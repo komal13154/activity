@@ -3272,6 +3272,7 @@ Contribution: 2026-07-16 20:07
 | ------- |
 | [0001-two-sum](https://github.com/komal13154/activity/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/komal13154/activity/tree/master/0014-longest-common-prefix) |
+| [0088-merge-sorted-array](https://github.com/komal13154/activity/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/komal13154/activity/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/komal13154/activity/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/komal13154/activity/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -3315,6 +3316,7 @@ Contribution: 2026-07-16 20:07
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/komal13154/activity/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/komal13154/activity/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/komal13154/activity/tree/master/0268-missing-number) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/komal13154/activity/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -3338,4 +3340,5 @@ Contribution: 2026-07-16 20:07
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/komal13154/activity/tree/master/0061-rotate-list) |
+| [0088-merge-sorted-array](https://github.com/komal13154/activity/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
