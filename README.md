@@ -3275,6 +3275,7 @@ Contribution: 2026-07-16 20:07
 | [0026-remove-duplicates-from-sorted-array](https://github.com/komal13154/activity/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/komal13154/activity/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/komal13154/activity/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/komal13154/activity/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/komal13154/activity/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/komal13154/activity/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/komal13154/activity/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -3285,6 +3286,7 @@ Contribution: 2026-07-16 20:07
 | [0001-two-sum](https://github.com/komal13154/activity/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/komal13154/activity/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/komal13154/activity/tree/master/0013-roman-to-integer) |
+| [0169-majority-element](https://github.com/komal13154/activity/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/komal13154/activity/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/komal13154/activity/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/komal13154/activity/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -3319,12 +3321,14 @@ Contribution: 2026-07-16 20:07
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/komal13154/activity/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/komal13154/activity/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/komal13154/activity/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/komal13154/activity/tree/master/0268-missing-number) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/komal13154/activity/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/komal13154/activity/tree/master/0169-majority-element) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/komal13154/activity/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Binary Search
 |  |
@@ -3345,4 +3349,12 @@ Contribution: 2026-07-16 20:07
 | [0061-rotate-list](https://github.com/komal13154/activity/tree/master/0061-rotate-list) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/komal13154/activity/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/komal13154/activity/tree/master/0088-merge-sorted-array) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/komal13154/activity/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/komal13154/activity/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
