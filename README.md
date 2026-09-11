@@ -3290,6 +3290,7 @@ Contribution: 2026-07-16 20:07
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/komal13154/activity/tree/master/0002-add-two-numbers) |
+| [0061-rotate-list](https://github.com/komal13154/activity/tree/master/0061-rotate-list) |
 ## Math
 |  |
 | ------- |
@@ -3333,4 +3334,8 @@ Contribution: 2026-07-16 20:07
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/komal13154/activity/tree/master/0014-longest-common-prefix) |
+## Two Pointers
+|  |
+| ------- |
+| [0061-rotate-list](https://github.com/komal13154/activity/tree/master/0061-rotate-list) |
 <!---LeetCode Topics End-->
