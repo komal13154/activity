@@ -3274,6 +3274,7 @@ Contribution: 2026-07-16 20:07
 | [0011-container-with-most-water](https://github.com/komal13154/activity/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/komal13154/activity/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/komal13154/activity/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0035-search-insert-position](https://github.com/komal13154/activity/tree/master/0035-search-insert-position) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/komal13154/activity/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/komal13154/activity/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/komal13154/activity/tree/master/0169-majority-element) |
@@ -3343,6 +3344,7 @@ Contribution: 2026-07-16 20:07
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/komal13154/activity/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/komal13154/activity/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
