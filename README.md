@@ -3311,6 +3311,7 @@ Contribution: 2026-07-16 20:07
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/komal13154/activity/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/komal13154/activity/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/komal13154/activity/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/komal13154/activity/tree/master/0014-longest-common-prefix) |
 ## Sliding Window
@@ -3345,6 +3346,7 @@ Contribution: 2026-07-16 20:07
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/komal13154/activity/tree/master/0005-longest-palindromic-substring) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/komal13154/activity/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0061-rotate-list](https://github.com/komal13154/activity/tree/master/0061-rotate-list) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/komal13154/activity/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -3357,4 +3359,12 @@ Contribution: 2026-07-16 20:07
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/komal13154/activity/tree/master/0169-majority-element) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/komal13154/activity/tree/master/0005-longest-palindromic-substring) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/komal13154/activity/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
