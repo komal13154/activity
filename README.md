@@ -3275,6 +3275,7 @@ Contribution: 2026-07-16 20:07
 | [0014-longest-common-prefix](https://github.com/komal13154/activity/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/komal13154/activity/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/komal13154/activity/tree/master/0035-search-insert-position) |
+| [0036-valid-sudoku](https://github.com/komal13154/activity/tree/master/0036-valid-sudoku) |
 | [0066-plus-one](https://github.com/komal13154/activity/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/komal13154/activity/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/komal13154/activity/tree/master/0088-merge-sorted-array) |
@@ -3290,6 +3291,7 @@ Contribution: 2026-07-16 20:07
 | [0003-longest-substring-without-repeating-characters](https://github.com/komal13154/activity/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/komal13154/activity/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/komal13154/activity/tree/master/0013-roman-to-integer) |
+| [0036-valid-sudoku](https://github.com/komal13154/activity/tree/master/0036-valid-sudoku) |
 | [0169-majority-element](https://github.com/komal13154/activity/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/komal13154/activity/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/komal13154/activity/tree/master/0268-missing-number) |
@@ -3432,4 +3434,8 @@ Contribution: 2026-07-16 20:07
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/komal13154/activity/tree/master/0101-symmetric-tree) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/komal13154/activity/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
