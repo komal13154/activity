@@ -3322,6 +3322,7 @@ Contribution: 2026-07-16 20:07
 | [0013-roman-to-integer](https://github.com/komal13154/activity/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/komal13154/activity/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/komal13154/activity/tree/master/0020-valid-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/komal13154/activity/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -3357,6 +3358,7 @@ Contribution: 2026-07-16 20:07
 | [0005-longest-palindromic-substring](https://github.com/komal13154/activity/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/komal13154/activity/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/komal13154/activity/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/komal13154/activity/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0061-rotate-list](https://github.com/komal13154/activity/tree/master/0061-rotate-list) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/komal13154/activity/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/komal13154/activity/tree/master/0088-merge-sorted-array) |
@@ -3388,4 +3390,20 @@ Contribution: 2026-07-16 20:07
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/komal13154/activity/tree/master/0020-valid-parentheses) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/komal13154/activity/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Z Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/komal13154/activity/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/komal13154/activity/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/komal13154/activity/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
