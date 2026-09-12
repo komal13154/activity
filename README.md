@@ -3275,6 +3275,7 @@ Contribution: 2026-07-16 20:07
 | [0014-longest-common-prefix](https://github.com/komal13154/activity/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/komal13154/activity/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/komal13154/activity/tree/master/0035-search-insert-position) |
+| [0066-plus-one](https://github.com/komal13154/activity/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/komal13154/activity/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/komal13154/activity/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/komal13154/activity/tree/master/0169-majority-element) |
@@ -3307,6 +3308,7 @@ Contribution: 2026-07-16 20:07
 | [0009-palindrome-number](https://github.com/komal13154/activity/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/komal13154/activity/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/komal13154/activity/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/komal13154/activity/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/komal13154/activity/tree/master/0268-missing-number) |
 ## Recursion
 |  |
