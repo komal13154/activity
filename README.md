@@ -3446,4 +3446,8 @@ Contribution: 2026-07-16 20:07
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/komal13154/activity/tree/master/0067-add-binary) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/komal13154/activity/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
