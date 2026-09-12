@@ -3300,6 +3300,7 @@ Contribution: 2026-07-16 20:07
 | ------- |
 | [0002-add-two-numbers](https://github.com/komal13154/activity/tree/master/0002-add-two-numbers) |
 | [0061-rotate-list](https://github.com/komal13154/activity/tree/master/0061-rotate-list) |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/komal13154/activity/tree/master/0083-remove-duplicates-from-sorted-list) |
 ## Math
 |  |
 | ------- |
