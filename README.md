@@ -3392,6 +3392,7 @@ Contribution: 2026-07-16 20:07
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/komal13154/activity/tree/master/0020-valid-parentheses) |
+| [0094-binary-tree-inorder-traversal](https://github.com/komal13154/activity/tree/master/0094-binary-tree-inorder-traversal) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -3412,4 +3413,16 @@ Contribution: 2026-07-16 20:07
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/komal13154/activity/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/komal13154/activity/tree/master/0094-binary-tree-inorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/komal13154/activity/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/komal13154/activity/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
