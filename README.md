@@ -3452,5 +3452,6 @@ Contribution: 2026-07-16 20:07
 | [0175-combine-two-tables](https://github.com/komal13154/activity/tree/master/0175-combine-two-tables) |
 | [0176-second-highest-salary](https://github.com/komal13154/activity/tree/master/0176-second-highest-salary) |
 | [0584-find-customer-referee](https://github.com/komal13154/activity/tree/master/0584-find-customer-referee) |
+| [0595-big-countries](https://github.com/komal13154/activity/tree/master/0595-big-countries) |
 | [1757-recyclable-and-low-fat-products](https://github.com/komal13154/activity/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
