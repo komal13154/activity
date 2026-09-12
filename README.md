@@ -3417,12 +3417,19 @@ Contribution: 2026-07-16 20:07
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/komal13154/activity/tree/master/0094-binary-tree-inorder-traversal) |
+| [0101-symmetric-tree](https://github.com/komal13154/activity/tree/master/0101-symmetric-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/komal13154/activity/tree/master/0094-binary-tree-inorder-traversal) |
+| [0101-symmetric-tree](https://github.com/komal13154/activity/tree/master/0101-symmetric-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/komal13154/activity/tree/master/0094-binary-tree-inorder-traversal) |
+| [0101-symmetric-tree](https://github.com/komal13154/activity/tree/master/0101-symmetric-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/komal13154/activity/tree/master/0101-symmetric-tree) |
 <!---LeetCode Topics End-->
