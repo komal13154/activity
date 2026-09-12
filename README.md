@@ -3271,6 +3271,7 @@ Contribution: 2026-07-16 20:07
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/komal13154/activity/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/komal13154/activity/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/komal13154/activity/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/komal13154/activity/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/komal13154/activity/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -3350,6 +3351,7 @@ Contribution: 2026-07-16 20:07
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/komal13154/activity/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/komal13154/activity/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/komal13154/activity/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0061-rotate-list](https://github.com/komal13154/activity/tree/master/0061-rotate-list) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/komal13154/activity/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -3370,4 +3372,8 @@ Contribution: 2026-07-16 20:07
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/komal13154/activity/tree/master/0005-longest-palindromic-substring) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/komal13154/activity/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
