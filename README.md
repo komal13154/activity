@@ -3452,6 +3452,7 @@ Contribution: 2026-07-16 20:07
 | [0175-combine-two-tables](https://github.com/komal13154/activity/tree/master/0175-combine-two-tables) |
 | [0176-second-highest-salary](https://github.com/komal13154/activity/tree/master/0176-second-highest-salary) |
 | [0178-rank-scores](https://github.com/komal13154/activity/tree/master/0178-rank-scores) |
+| [0180-consecutive-numbers](https://github.com/komal13154/activity/tree/master/0180-consecutive-numbers) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/komal13154/activity/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0577-employee-bonus](https://github.com/komal13154/activity/tree/master/0577-employee-bonus) |
 | [0584-find-customer-referee](https://github.com/komal13154/activity/tree/master/0584-find-customer-referee) |
